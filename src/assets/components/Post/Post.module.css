@@ -1,0 +1,22 @@
+.post {
+    background-color: aliceblue;
+    width: 600px;
+    padding: 8px;
+    border: 1px solid transparent;
+    border-radius: 0 0 8px 8px;
+}
+
+.post-image {
+    width: 100%;
+    display: block;
+    border-radius: 8px 8px 0 0;
+}
+
+.pt-8 {
+    padding-top: 8px;
+}
+
+.text-btn {
+    text-transform: uppercase;
+    font-weight: lighter;
+}
