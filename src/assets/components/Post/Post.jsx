@@ -7,7 +7,7 @@ const Post = () => {
         <>
             <div className="post">
                 <PostImage />
-                <PostText />
+                <PostText  title="My First Post" description="This is my first post!" like={3}/>
             </div>
         </>
     )
