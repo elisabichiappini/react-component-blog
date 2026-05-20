@@ -12,6 +12,7 @@
 
 body {
   background-color: var(--var-primary-color);
+  padding: 100px 0;
 }
 
 button {
