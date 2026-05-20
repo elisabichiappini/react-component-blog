@@ -4,6 +4,7 @@
     padding: 8px;
     border: 1px solid transparent;
     border-radius: 0 0 8px 8px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px;
 }
 
 .post-image {
